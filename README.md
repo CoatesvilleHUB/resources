@@ -11,7 +11,7 @@ you can edit the text directly from github
 
 no need to clone the repo to local
 
-for <b>markdown<b> documention go here: https://help.github.com/articles/github-flavored-markdown/
+for <b>markdown</b> documention go here: https://help.github.com/articles/github-flavored-markdown/
 
 # Organizations
 
