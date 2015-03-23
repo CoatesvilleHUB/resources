@@ -14,11 +14,11 @@ no need to clone the repo to local
 for <b>markdown</b> documention go here: https://help.github.com/articles/github-flavored-markdown/
 
 # Organizations
+http://enablingthefuture.org - Connecting local makers and children in need of low cost open source prothestics
 
 # Local Manufacturing
 
-3d Hubs - marketplace for 3d print jobs consisting of local independent makers
-https://www.3dhubs.com/3dprint
+https://www.3dhubs.com Marketplace for 3d print work for local independent makers)
 
 # Online Manufacturing
 
