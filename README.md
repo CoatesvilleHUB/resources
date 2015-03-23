@@ -5,7 +5,7 @@ This is a living collaborative document
 
 ALL New Members - if you wish to contribute to the resources provided here please create an issue ticket titled "addme" with your github username to be added to the collaborators group. If you don't have a github account yet follow these instructions: https://help.github.com/articles/signing-up-for-a-new-github-account/
 
-you can learn to do so here: https://help.github.com/articles/creating-an-issue/
+To learn how to create a ticket see here: https://help.github.com/articles/creating-an-issue/
 
 you can edit the text directly from github
 
